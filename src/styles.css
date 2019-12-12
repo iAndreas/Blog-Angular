@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.header{
+    border-style: solid;
+    height: 100px;
+}
+
+.menu{
+    border-style: solid;
+    height:500px;
+    width: 15%;
+}
+
+.footer{
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+}
+
+.gambi{
+    position: absolute;
+    top:110px;
+    left: 240px;
+    height:505px;
+    width: 1285px;
+}
+
+
+/*
+div.body{
+    position: absolute;
+    top:27%;
+    left: 16%;
+    border-style: solid;
+    height:65%;
+    width: 64.6%;
+}
+.footer{
+    position: absolute;
+    top:94%;
+    bottom: 0%;
+    border-style: solid;
+    width: 80%;
+    height: 5%;
+}
+*/
